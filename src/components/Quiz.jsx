@@ -23,7 +23,7 @@ function QuizApp() {
 
   useEffect(() => {
     // Load quiz data from the JSON file and shuffle the questions
-    fetch('/src/assets/question.json')
+    fetch('/question.json')
       .then((response) => response.json())
       .then((data) => {
         setQuizData(shuffleArray(data));
