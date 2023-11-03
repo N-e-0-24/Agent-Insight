@@ -1,0 +1,98 @@
+
+    [{
+      "question": "What is the capital of France?",
+      "options": ["New York", "London", "Paris", "Dublin"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["Japan", "China", "South Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Fe", "Au", "Pb"],
+      "answer": "Au"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Giraffe", "Elephant", "Blue Whale", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Saturn", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Leo Tolstoy"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Dollar", "Yen", "Euro", "Pound"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Which gas makes up the majority of the Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Amelia Earhart", "Marie Curie", "Sally Ride", "Helen Keller"],
+      "answer": "Amelia Earhart"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Atacama Desert", "Antarctica"],
+      "answer": "Antarctica"
+    },
+    {
+      "question": "Which gas do humans exhale when they breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Earth", "Mars", "Saturn", "Mercury"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Who is the author of the Harry Potter series?",
+      "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Stephen King"],
+      "answer": "J.K. Rowling"
+    },
+    {
+      "question": "Which element has the chemical symbol 'H'?",
+      "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+      "answer": "Hydrogen"
+    }]
+  
+  
